@@ -8,3 +8,5 @@ c206-test(max_18_OK) - počet získaných bodů: 2 (18 sections OK) <br>
 c206-advanced-test(max_58_OK) - počet získaných bodů: 2 (58 sections OK) <br>
 ----------------<br>
 Celkem: 10 bodů<br>
+
+# IAL-DU1 - ?/10
