@@ -8,7 +8,7 @@
 	datum: rijen 2005
 
     kompletni upravy: Roman Lukas, 2006
-    upravil: Karel Masarik, rijen 2013
+    upravil: Karel Masarik, rijen 2013 
 													 */	
 /* ***************************************************************** */
 
